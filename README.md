@@ -15,18 +15,27 @@ The game offers two game modes:
 - Story Mode - Dialogues and bosses! After defeating certain amount of enemies, a boss with mechanics unique to each level shows up. The boss needs to be beaten in order to unlock the next level.
 - Free Mode - Achieve higher scores! This mode spawns enemies infinitely, so no bosses this time. This mode is used for practice and showing the leaderboards who's the boss.
 
-Games with customization options are always a nice find, so a shop system was created where the player can buy and equip different skins.
-
-Insert shop screen here
 
 The game integrates such SDKs as:
 - **Google Play Games Services:** For leaderboards, achievements, and cloud saves.
 - **AdMob:** For ad system integration. Users can willingly watch ads to earn some coins or gain extra life after dying.
-- **Spine:** For managing animation state and skins at runtime. Main character and the enemies were created and exported from Spine.
+- **Spine Unity Runtime:** For managing animation state and skins at runtime. Main character and the enemies were created and exported from Spine.
 
 ## Showcase
-### Dialogue System
+### [Dialogue System](hihihi)
+![dialoguegif](https://user-images.githubusercontent.com/42221923/143951062-47c03a24-f8c8-4d6c-a19a-bd3c87e3266f.gif)
+
+Having conversations is important. We're using dialogues to provide some small information about the characters and the story behind the enemies we're fighting with.
+
 ### Save System
-### Shop System
-### Parallax System
+### [Shop System](gogole)
+![shopgif](https://user-images.githubusercontent.com/42221923/143946313-5e8bbabb-d317-4254-a303-cd5bc1dcc1c2.gif)
+
+Games with customization options are always a nice find, so a shop system was created where the player can buy and equip different skins.
+
+### [Parallax System](papa)
+![parallaxgif](https://user-images.githubusercontent.com/42221923/143954425-0ae79a5d-ee53-467f-b0f8-94c9fb8257c6.gif)
+
+Got the cool background art? Awesome! Now it's time to make it move.
+
 ### Bosses
