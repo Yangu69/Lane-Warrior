@@ -27,7 +27,9 @@ The game integrates such SDKs as:
 
 Having conversations is important. We're using dialogues to provide some small information about the characters and the story behind the enemies we're fighting with.
 
-### Save System
+### [Save System](yae)
+User statistics and unlocks are saved on both the device and in the cloud, meaning it's always possible to continue where they left off.
+
 ### [Shop System](gogole)
 ![shopgif](https://user-images.githubusercontent.com/42221923/143946313-5e8bbabb-d317-4254-a303-cd5bc1dcc1c2.gif)
 
@@ -38,4 +40,7 @@ Games with customization options are always a nice find, so a shop system was cr
 
 Got the cool background art? Awesome! Now it's time to make it move.
 
-### Bosses
+### [Bosses](asds)
+![bossgif](https://user-images.githubusercontent.com/42221923/143960503-736006f0-d402-423a-9169-dfc9cecdb9c7.gif)
+
+Bosses were programmed to use the lane fighting system as a nice addition to the regular fights with Chompers.
