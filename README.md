@@ -40,7 +40,7 @@ Games with customization options are always a nice find, so a shop system was cr
 
 Got the cool background art? Awesome! Now it's time to make it move.
 
-### [Bosses](asds)
+### [Bosses System](asds)
 ![bossgif](https://user-images.githubusercontent.com/42221923/143960503-736006f0-d402-423a-9169-dfc9cecdb9c7.gif)
 
 Bosses were programmed to use the lane fighting system as a nice addition to the regular fights with Chompers.
