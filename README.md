@@ -22,7 +22,7 @@ The game integrates such SDKs as:
 - **Spine Unity Runtime:** For managing animation state and skins at runtime. Main character and the enemies were created and exported from Spine.
 
 ## Showcase
-### [Dialogue System](hihihi)
+### [Dialogue System](https://github.com/YanguDev/Lane-Warrior/tree/main/DialogueSystem)
 ![dialoguegif](https://user-images.githubusercontent.com/42221923/143951062-47c03a24-f8c8-4d6c-a19a-bd3c87e3266f.gif)
 
 Having conversations is important. We're using dialogues to provide some small information about the characters and the story behind the enemies we're fighting with.
