@@ -48,3 +48,8 @@ void ShootPhase(){
     StartCoroutine(ActivePart());
 }
 ```
+After defeating the boss through their custom mechanics, the fight always ends with the bonus sequence where the player can beat the crap out of the boss for some extra money.
+
+![bossgif3](https://user-images.githubusercontent.com/42221923/144756204-ca7b2178-8b24-44bb-b9bf-b351f75f5773.gif)
+
+The parallax system clones the background and offsets it exactly for this tapping sequence, because the camera moves to the right to focus on the boss.
