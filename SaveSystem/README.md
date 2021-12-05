@@ -11,6 +11,8 @@ Main menu shows information about the status of the cloud save. It gives a nice 
 
 ![image](https://user-images.githubusercontent.com/42221923/144412557-9ad34efb-eeb3-4ec7-a374-004da16c9326.png)
 
+## How it works
+
 SaveManager uses BinaryFormatter to serialize SaveData object to file.
 ```c#
  public void SerializeSaveData(){
