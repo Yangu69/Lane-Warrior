@@ -38,7 +38,7 @@ Games with customization options are always a nice find, so a shop system was cr
 ### [Parallax System](https://github.com/YanguDev/Lane-Warrior/tree/main/ParallaxSystem)
 ![parallaxgif](https://user-images.githubusercontent.com/42221923/143954425-0ae79a5d-ee53-467f-b0f8-94c9fb8257c6.gif)
 
-Got the cool background art? Awesome! Now it's time to make it move.
+Creating a cool background was only one step. After that, it was needed to make it move!
 
 ### [Bosses System](https://github.com/YanguDev/Lane-Warrior/tree/main/BossesSystem)
 ![bossgif](https://user-images.githubusercontent.com/42221923/143960503-736006f0-d402-423a-9169-dfc9cecdb9c7.gif)
